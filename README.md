@@ -31,5 +31,5 @@ would look like:
 I would then invoke the CLI program with:
 
 ```sh
-python main.py --config ./config.json
+python pic_selector.py --config ./config.json
 ```
