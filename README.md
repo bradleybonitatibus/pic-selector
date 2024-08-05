@@ -33,3 +33,5 @@ I would then invoke the CLI program with:
 ```sh
 python pic_selector.py --config ./config.json
 ```
+
+You will then see the selected files copied to `C:\\Users\\me\\Pictures\\2024-08-04\\selected`.
